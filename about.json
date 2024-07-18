@@ -1,14 +1,4 @@
 {
-   "name" : "Roboto theme component",
-   "about_url" : "https://github.com/madviiii/fonts",
-   "license_url": "",
-   "assets": {
-
-   }
-}
-
-
-{
   "name": "Default",
   "component": false,
   "license_url": null,
