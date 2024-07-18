@@ -8,10 +8,7 @@
   src: url($newfoundationwhytebook) format('woff')
 }
 
-heading-font-family {
-    font-family: ITCGaromond;
-}
-
---font-family {
-    font-family: NewFoundationWhyte;
+:root {
+   --heading-font-family: ITCGaromond;
+  --font-family: NewFoundationWhyte;
 }
