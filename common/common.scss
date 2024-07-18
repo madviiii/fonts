@@ -3,6 +3,15 @@
   src: url($itcgaramondstdltnarrow) format('woff')
 }
 
-body {
+@font-face {
+  font-family: NewFoundationWhyte;
+  src: url($newfoundationwhytebook) format('woff')
+}
+
+heading-font-family {
     font-family: ITCGaromond;
+}
+
+--font-family {
+    font-family: NewFoundationWhyte;
 }
