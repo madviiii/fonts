@@ -1,0 +1,9 @@
+{
+   "name" : "Roboto theme component",
+   "about_url" : "",
+   "license_url": "",
+   "assets": {
+        "itcgaramondstdltnarrow": "ITCGaramondStd-LtNarrow.woff",
+        "newfoundationwhytebook": "NewfoundationWhyte-Book.woff"
+   }
+}
